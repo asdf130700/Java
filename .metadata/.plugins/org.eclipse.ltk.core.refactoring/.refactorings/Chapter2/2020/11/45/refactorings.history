@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;binary.BinaryTEst&apos; to &apos;BinaryTest&apos;&#x0D;&#x0A;- Original project: &apos;Chapter2&apos;&#x0D;&#x0A;- Original element: &apos;binary.BinaryTEst&apos;&#x0D;&#x0A;- Renamed element: &apos;binary.BinaryTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BinaryTEst&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;binary{BinaryTEst.java[BinaryTEst" matchStrategy="1" name="BinaryTest" qualified="false" references="true" similarDeclarations="false" stamp="1604543559271" textual="false" version="1.0"/>
+</session>

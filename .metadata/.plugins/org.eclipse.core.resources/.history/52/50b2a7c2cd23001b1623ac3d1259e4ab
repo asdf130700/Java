@@ -1,0 +1,14 @@
+package calsspart;
+
+public class Student {
+	int studentID;
+	String studentName;
+	int grade;
+	String address;
+	
+	public void showStudentInfo() {
+		System.out.println(studentName +"," + address);
+		//메소드 추가 이름, 주소 출력
+	}
+
+}
